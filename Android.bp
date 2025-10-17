@@ -3,7 +3,6 @@ android_app_import{
     apk:"via-release.apk",
     presigned: true,
     preprocessed: true,
-    privileged: true,
     dex_preopt:{
         enabled: false,
     },
